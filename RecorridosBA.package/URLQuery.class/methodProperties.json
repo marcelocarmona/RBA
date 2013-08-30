@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"drivingModeString" : " 14/9/12 23:19",
+		"new" : " 14/9/12 23:19",
+		"walkingModeString" : " 14/9/12 23:19" },
+	"instance" : {
+		"durationMatrixUrlFor:withOrigin:withMode:" : " 14/9/12 23:19",
+		"initialize" : "MarceloCarmona 10/31/2012 02:33",
+		"pointUrlForWaypoints:andOrigin:" : " 14/9/12 23:19",
+		"urlFor:withOrigin:optimized:alternatives:mode:" : " 14/9/12 23:19",
+		"urlForWaypoints:" : " 14/9/12 23:19",
+		"urlQuery" : " 14/9/12 23:19",
+		"urlQuery:" : " 14/9/12 23:19" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "RecorridosBA-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"entries" ],
+	"name" : "RBAMenuNavigation",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

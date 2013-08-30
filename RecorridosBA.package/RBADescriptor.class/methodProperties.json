@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"allTableNames" : "MarceloCarmona 12/18/2012 19:49",
+		"classModelForAddressValueObject:" : "MarceloCarmona 12/16/2012 17:54",
+		"classModelForAddressValueObjectList:" : "MarceloCarmona 12/18/2012 19:49",
+		"classModelForRBAUser:" : "MarceloCarmona 12/16/2012 18:22",
+		"constructAllClasses" : "MarceloCarmona 12/16/2012 18:16",
+		"descriptorForAddressValueObject:" : "MarceloCarmona 12/16/2012 17:57",
+		"descriptorForAddressValueObjectList:" : "MarceloCarmona 12/18/2012 19:49",
+		"descriptorForRBAUser:" : "MarceloCarmona 12/17/2012 03:17",
+		"tableForADDRESS:" : "MarceloCarmona 12/18/2012 19:49",
+		"tableForADDRESS_LIST:" : "MarceloCarmona 12/17/2012 03:18",
+		"tableForUSER:" : "MarceloCarmona 12/16/2012 23:07" } }

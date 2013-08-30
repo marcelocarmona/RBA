@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addressList" : "MarceloCarmona 12/14/2012 23:01",
+		"addressList:" : "MarceloCarmona 12/14/2012 23:02",
+		"initialize" : "MarceloCarmona 1/28/2013 18:08",
+		"loadMarkers" : "MarceloCarmona 1/28/2013 17:33",
+		"removeAll" : "MarceloCarmona 12/16/2012 08:22",
+		"renderContentOn:" : "MarceloCarmona 12/15/2012 01:05",
+		"renderItem:on:" : "MarceloCarmona 12/17/2012 00:41",
+		"renderItemButtonRemove:On:" : "MarceloCarmona 1/28/2013 10:37",
+		"renderItemsOn:" : "MarceloCarmona 12/14/2012 23:01",
+		"saveListOfAddresses:" : "MarceloCarmona 12/18/2012 17:34",
+		"sizeGreaterThanOne" : "MarceloCarmona 12/14/2012 23:01" } }

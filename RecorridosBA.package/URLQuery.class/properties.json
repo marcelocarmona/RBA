@@ -1,0 +1,14 @@
+{
+	"category" : "RecorridosBA-TravelProcess",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"urlQuery" ],
+	"name" : "URLQuery",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

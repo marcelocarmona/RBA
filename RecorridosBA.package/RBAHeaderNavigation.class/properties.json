@@ -1,0 +1,16 @@
+{
+	"category" : "RecorridosBA-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"entryLogin",
+		"entryLogout",
+		"entryLoginOrLogout" ],
+	"name" : "RBAHeaderNavigation",
+	"pools" : [
+		 ],
+	"super" : "RBAMenuNavigation",
+	"type" : "normal" }

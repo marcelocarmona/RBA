@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"default" : "MarceloCarmona 12/14/2012 10:01",
+		"new" : "MarceloCarmona 12/14/2012 09:22" },
+	"instance" : {
+		"accessor" : "MarceloCarmona 12/14/2012 11:40",
+		"accessor:" : "MarceloCarmona 12/14/2012 11:40",
+		"connect" : "MarceloCarmona 12/18/2012 16:18",
+		"createTables" : "MarceloCarmona 12/16/2012 22:07",
+		"dropTables" : "MarceloCarmona 12/18/2012 16:51",
+		"getUser:and:" : "MarceloCarmona 12/16/2012 23:39",
+		"login" : "MarceloCarmona 12/14/2012 11:40",
+		"login:" : "MarceloCarmona 12/14/2012 11:40",
+		"session" : "MarceloCarmona 12/16/2012 21:50",
+		"session:" : "MarceloCarmona 12/16/2012 21:50" } }

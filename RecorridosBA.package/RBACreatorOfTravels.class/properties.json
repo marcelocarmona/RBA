@@ -1,0 +1,15 @@
+{
+	"category" : "RecorridosBA-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"destinationsFormComponent",
+		"travelQueryProcessor" ],
+	"name" : "RBACreatorOfTravels",
+	"pools" : [
+		 ],
+	"super" : "RBAWebSite",
+	"type" : "normal" }

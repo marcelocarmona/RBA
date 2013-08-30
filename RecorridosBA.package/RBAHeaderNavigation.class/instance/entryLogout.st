@@ -1,0 +1,3 @@
+accessing
+entryLogout
+	^ entryLogout

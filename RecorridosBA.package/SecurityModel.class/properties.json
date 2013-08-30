@@ -1,0 +1,16 @@
+{
+	"category" : "RecorridosBA-LoginSecuritySystem",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"code",
+		"path",
+		"resto" ],
+	"name" : "SecurityModel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

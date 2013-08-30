@@ -1,0 +1,22 @@
+{
+	"category" : "RecorridosBA-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"user",
+		"login",
+		"core",
+		"model",
+		"matrix",
+		"o1",
+		"o2",
+		"o3",
+		"o4" ],
+	"name" : "RBALoginSecurityMatrix",
+	"pools" : [
+		 ],
+	"super" : "RBAWebSite",
+	"type" : "normal" }

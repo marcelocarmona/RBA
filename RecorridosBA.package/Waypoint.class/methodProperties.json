@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"new" : " 14/9/12 23:19",
+		"newWithPosition:" : " 14/9/12 23:19",
+		"newWithPosition:delay:limit:" : " 14/9/12 23:19",
+		"newWithPosition:delay:limit:address:" : " 14/9/12 23:19" },
+	"instance" : {
+		"address" : " 14/9/12 23:19",
+		"address:" : " 14/9/12 23:19",
+		"allLegs" : " 14/9/12 23:19",
+		"asList" : " 14/9/12 23:19",
+		"checkTimeIn:with:using:" : " 14/9/12 23:19",
+		"delay" : " 14/9/12 23:19",
+		"delay:" : " 14/9/12 23:19",
+		"distanceTo:" : " 14/9/12 23:19",
+		"initialize" : " 14/9/12 23:19",
+		"initializeWithPosition:" : " 14/9/12 23:19",
+		"initializeWithPosition:delay:limit:" : " 14/9/12 23:19",
+		"initializeWithPosition:delay:limit:address:" : " 14/9/12 23:19",
+		"limit" : " 14/9/12 23:19",
+		"limit:" : " 14/9/12 23:19",
+		"limited" : " 14/9/12 23:19",
+		"max:" : " 14/9/12 23:19",
+		"position" : " 14/9/12 23:19",
+		"position:" : " 14/9/12 23:19" } }

@@ -1,0 +1,4 @@
+getters
+valor
+
+	^valor.

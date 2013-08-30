@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"displaySecurityMatrix:" : "MarceloCarmona 12/17/2012 00:27",
+		"loginFailed" : "MarceloCarmona 11/20/2012 13:45",
+		"password" : "MarceloCarmona 11/20/2012 13:45",
+		"password:" : "MarceloCarmona 11/20/2012 13:45",
+		"registerUser" : "NoTeInteresa 12/5/2012 18:52",
+		"renderButtonsOn:" : "MarceloCarmona 11/21/2012 16:25",
+		"renderMainContentOn:" : "MarceloCarmona 11/21/2012 16:02",
+		"renderPasswordOn:" : "MarceloCarmona 11/21/2012 15:06",
+		"renderUsernameOn:" : "MarceloCarmona 11/21/2012 15:05",
+		"style" : "MarceloCarmona 12/13/2012 21:47",
+		"title" : "MarceloCarmona 11/21/2012 01:20",
+		"user" : "MarceloCarmona 11/20/2012 13:45",
+		"user:" : "MarceloCarmona 11/20/2012 13:45",
+		"validateLogin" : "MarceloCarmona 12/19/2012 00:39" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "RecorridosBA-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"user" ],
+	"name" : "RBASession",
+	"pools" : [
+		 ],
+	"super" : "WASession",
+	"type" : "normal" }

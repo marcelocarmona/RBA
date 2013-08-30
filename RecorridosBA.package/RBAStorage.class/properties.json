@@ -1,0 +1,16 @@
+{
+	"category" : "RecorridosBA-Model",
+	"classinstvars" : [
+		"singleton" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"login",
+		"accessor",
+		"session" ],
+	"name" : "RBAStorage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

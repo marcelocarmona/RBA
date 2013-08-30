@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"new" : " 14/9/12 23:19" },
+	"instance" : {
+		"anOrderedCollection" : " 14/9/12 23:19",
+		"anOrderedCollection:" : " 14/9/12 23:19",
+		"farthestWaypoint" : " 14/9/12 23:19",
+		"farthestWaypoint:" : " 14/9/12 23:19",
+		"origin" : " 14/9/12 23:19",
+		"origin:" : " 14/9/12 23:19",
+		"setUp" : " 14/9/12 23:19",
+		"testSearchFarthest" : " 14/9/12 23:19",
+		"testSearchLimitedWaypoints" : " 14/9/12 23:19",
+		"travelSerch" : " 14/9/12 23:19",
+		"travelSerch:" : " 14/9/12 23:19",
+		"waypoint1" : " 14/9/12 23:19",
+		"waypoint1:" : " 14/9/12 23:19",
+		"waypoint2" : " 14/9/12 23:19",
+		"waypoint2:" : " 14/9/12 23:19",
+		"waypoint3" : " 14/9/12 23:19",
+		"waypoint3:" : " 14/9/12 23:19",
+		"waypoint4" : " 14/9/12 23:19",
+		"waypoint4:" : " 14/9/12 23:19" } }

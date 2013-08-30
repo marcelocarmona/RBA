@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"new:" : "MarceloCarmona 12/15/2012 02:42" },
+	"instance" : {
+		"destinationsListComponent" : "MarceloCarmona 12/15/2012 02:42",
+		"destinationsListComponent:" : "MarceloCarmona 12/15/2012 02:42",
+		"loadMarkers:" : "MarceloCarmona 1/28/2013 17:03",
+		"renderContentOn:" : "MarceloCarmona 12/15/2012 20:44",
+		"renderItem:on:" : "MarceloCarmona 1/28/2013 18:06",
+		"renderItemButtonRemove:On:" : "MarceloCarmona 12/18/2012 20:20",
+		"renderItemLoad:On:" : "MarceloCarmona 12/15/2012 02:56",
+		"renderItemsOn:" : "MarceloCarmona 12/15/2012 01:32",
+		"style" : "MarceloCarmona 12/15/2012 20:56" } }

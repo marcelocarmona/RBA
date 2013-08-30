@@ -1,0 +1,15 @@
+{
+	"category" : "RecorridosBA-TravelProcess",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"point",
+		"state" ],
+	"name" : "TrafficPoint",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

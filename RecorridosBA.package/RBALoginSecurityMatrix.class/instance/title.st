@@ -1,0 +1,4 @@
+rendering
+title
+
+	^'Comprobando usuario'.

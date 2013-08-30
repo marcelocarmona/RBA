@@ -1,0 +1,20 @@
+{
+	"category" : "RecorridosBA-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"distance",
+		"duration",
+		"traffic",
+		"start",
+		"end",
+		"polyline",
+		"instructions" ],
+	"name" : "Step",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

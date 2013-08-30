@@ -1,0 +1,1 @@
+Representa la peticion de camino desde la vista.

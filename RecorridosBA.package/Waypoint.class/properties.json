@@ -1,0 +1,17 @@
+{
+	"category" : "RecorridosBA-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"position",
+		"delay",
+		"limit",
+		"address" ],
+	"name" : "Waypoint",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

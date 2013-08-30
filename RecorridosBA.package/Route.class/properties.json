@@ -1,0 +1,15 @@
+{
+	"category" : "RecorridosBA-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"summary",
+		"legs" ],
+	"name" : "Route",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

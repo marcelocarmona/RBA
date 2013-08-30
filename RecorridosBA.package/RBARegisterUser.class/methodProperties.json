@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"comprobarCodigo:and:and:and:and:" : "NoTeInteresa 12/5/2012 17:45",
+		"generateUserPath" : "NoTeInteresa 12/5/2012 16:58",
+		"initialize" : "MarceloCarmona 11/22/2012 03:43",
+		"registerUser" : "MarceloCarmona 12/18/2012 23:24",
+		"renderButtonsOn:" : "MarceloCarmona 11/22/2012 01:44",
+		"renderCodeInputOn:" : "MarceloCarmona 12/13/2012 09:14",
+		"renderMainContentOn:" : "MarceloCarmona 12/13/2012 09:05",
+		"renderPasswordOn:" : "MarceloCarmona 11/21/2012 16:45",
+		"renderRepeatedPasswordOn:" : "MarceloCarmona 11/21/2012 21:22",
+		"renderUsernameOn:" : "MarceloCarmona 11/21/2012 16:45",
+		"repeatedPassword" : "MarceloCarmona 11/20/2012 14:25",
+		"repeatedPassword:" : "MarceloCarmona 11/20/2012 14:25",
+		"style" : "MarceloCarmona 12/13/2012 09:15",
+		"title" : "MarceloCarmona 11/21/2012 01:34",
+		"user" : "MarceloCarmona 11/20/2012 14:25",
+		"user:" : "MarceloCarmona 11/20/2012 14:25" } }

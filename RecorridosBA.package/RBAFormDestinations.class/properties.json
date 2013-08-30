@@ -1,0 +1,19 @@
+{
+	"category" : "RecorridosBA-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"address",
+		"mode",
+		"optimization",
+		"destinationsListComponent",
+		"userListDestinationsComponent",
+		"parent" ],
+	"name" : "RBAFormDestinations",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"new" : " 14/9/12 23:19" },
+	"instance" : {
+		"durationMatrixUrlFor:withOrigin:" : " 14/9/12 23:19",
+		"getBestTrafficLegFrom:To:" : " 14/9/12 23:19",
+		"initialize" : " 14/9/12 23:19",
+		"modeString" : " 14/9/12 23:19",
+		"optimizeByTraffic:" : " 14/9/12 23:19",
+		"optimizeDistanceFrom:in:" : " 14/9/12 23:19",
+		"preProcess:" : " 14/9/12 23:19",
+		"relocateMinWaypointFrom:to:in:" : " 14/9/12 23:19",
+		"relocateWaypoint:in:checking:withDurations:" : " 14/9/12 23:19",
+		"relocateWaypointsFrom:to:in:" : " 14/9/12 23:19",
+		"searchFarthest:withOrigin:" : " 14/9/12 23:19",
+		"searchLimitedWaypoints:" : " 14/9/12 23:19",
+		"searchRouteByTimeLimitFrom:andOrigin:andDurationMatrix:" : " 14/9/12 23:19",
+		"timeTo:in:withDurations:" : " 14/9/12 23:19",
+		"urlFor:withOrigin:optimized:alternatives:" : " 14/9/12 23:19" } }

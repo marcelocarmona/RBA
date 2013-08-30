@@ -1,0 +1,18 @@
+{
+	"category" : "RecorridosBA-TravelProcess",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"XMLParser" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"response",
+		"xmlParser",
+		"xmlDocument",
+		"route",
+		"durationMatrix" ],
+	"name" : "XmlParserRoute",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

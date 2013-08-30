@@ -1,0 +1,4 @@
+getters
+size
+
+	^size.

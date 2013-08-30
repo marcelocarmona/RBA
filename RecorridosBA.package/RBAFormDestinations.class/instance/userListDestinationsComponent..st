@@ -1,0 +1,3 @@
+accessing
+userListDestinationsComponent: anObject
+	userListDestinationsComponent := anObject

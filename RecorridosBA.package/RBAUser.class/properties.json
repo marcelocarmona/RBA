@@ -1,0 +1,23 @@
+{
+	"category" : "RecorridosBA-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"userName",
+		"password",
+		"listOfAddresses",
+		"c1",
+		"c2",
+		"c3",
+		"c4",
+		"securitycode",
+		"securitypath" ],
+	"name" : "RBAUser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

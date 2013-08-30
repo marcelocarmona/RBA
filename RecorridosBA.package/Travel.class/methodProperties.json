@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"new" : " 14/9/12 23:19",
+		"newFromRequest:" : " 14/9/12 23:19" },
+	"instance" : {
+		"addRoute:" : " 14/9/12 23:19",
+		"allLegs" : " 14/9/12 23:19",
+		"initialize" : " 14/9/12 23:19",
+		"initializeFromRequest:" : " 14/9/12 23:19",
+		"origin" : " 14/9/12 23:19",
+		"origin:" : " 14/9/12 23:19",
+		"reorderWaypoints" : " 14/9/12 23:19",
+		"request" : " 14/9/12 23:19",
+		"request:" : " 14/9/12 23:19",
+		"routes" : " 14/9/12 23:19",
+		"routes:" : " 14/9/12 23:19",
+		"search" : " 14/9/12 23:19",
+		"search:" : " 14/9/12 23:19" } }

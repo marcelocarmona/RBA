@@ -1,0 +1,22 @@
+{
+	"category" : "RecorridosBA-TestCases",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"waypoint1",
+		"waypoint2",
+		"waypoint3",
+		"waypoint4",
+		"travelSerch",
+		"origin",
+		"farthestWaypoint",
+		"anOrderedCollection",
+		"limitedWaypointcollection" ],
+	"name" : "TravelSearchTestCase",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

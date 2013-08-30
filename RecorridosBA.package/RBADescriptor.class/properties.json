@@ -1,0 +1,14 @@
+{
+	"category" : "RecorridosBA-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RBADescriptor",
+	"pools" : [
+		 ],
+	"super" : "DescriptorSystem",
+	"type" : "normal" }

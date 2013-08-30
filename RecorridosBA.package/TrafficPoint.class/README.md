@@ -1,0 +1,1 @@
+Represents a traffic information point (it has the coordinates and the state).

@@ -1,0 +1,17 @@
+{
+	"category" : "RecorridosBA-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"nameList",
+		"addressList",
+		"date" ],
+	"name" : "AddressValueObjectList",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

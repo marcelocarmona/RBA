@@ -1,0 +1,15 @@
+{
+	"category" : "RecorridosBA-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"messageString",
+		"wasShown" ],
+	"name" : "RBAMessage",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

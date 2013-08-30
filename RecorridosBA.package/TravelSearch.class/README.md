@@ -1,0 +1,1 @@
+A search algorithm to apply to the travels.

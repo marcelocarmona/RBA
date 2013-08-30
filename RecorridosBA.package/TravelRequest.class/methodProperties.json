@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"modes" : " 14/9/12 23:19",
+		"newFrom:mode:" : " 14/9/12 23:19",
+		"newFrom:waypoints:mode:" : " 14/9/12 23:19" },
+	"instance" : {
+		"addWaypoints:" : " 14/9/12 23:19",
+		"allWaypoints" : " 14/9/12 23:19",
+		"fromAllWaypointsAt:" : " 14/9/12 23:19",
+		"initialize" : "MarceloCarmona 10/11/2012 21:26",
+		"initializeFrom:mode:" : "MarceloCarmona 10/8/2012 16:45",
+		"initializeFrom:waypoints:mode:" : " 14/9/12 23:19",
+		"mode" : " 14/9/12 23:19",
+		"mode:" : " 14/9/12 23:19",
+		"origin" : " 14/9/12 23:19",
+		"origin:" : " 14/9/12 23:19",
+		"waypointAt:" : " 14/9/12 23:19",
+		"waypoints" : " 14/9/12 23:19",
+		"waypoints:" : " 14/9/12 23:19" } }

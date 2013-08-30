@@ -1,0 +1,15 @@
+{
+	"category" : "RecorridosBA-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"user",
+		"password" ],
+	"name" : "RBALogin",
+	"pools" : [
+		 ],
+	"super" : "RBAWebSite",
+	"type" : "normal" }

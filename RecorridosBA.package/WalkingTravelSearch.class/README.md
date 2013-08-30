@@ -1,0 +1,1 @@
+A search to travel walking only.

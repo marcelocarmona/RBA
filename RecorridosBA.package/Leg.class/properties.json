@@ -1,0 +1,21 @@
+{
+	"category" : "RecorridosBA-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"distance",
+		"duration",
+		"startLocation",
+		"endLocation",
+		"steps",
+		"startAddress",
+		"endAddress",
+		"mode" ],
+	"name" : "Leg",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+accessing
+farthestWaypoint
+	
+	^farthestWaypoint

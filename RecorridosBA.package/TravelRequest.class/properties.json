@@ -1,0 +1,16 @@
+{
+	"category" : "RecorridosBA-Model",
+	"classinstvars" : [
+		"modes" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"origin",
+		"waypoints",
+		"mode" ],
+	"name" : "TravelRequest",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

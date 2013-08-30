@@ -1,0 +1,21 @@
+{
+	"category" : "RecorridosBA-TestCases",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"mode",
+		"orderedCollection",
+		"dir1",
+		"dir2",
+		"dir3",
+		"dir4",
+		"travelQueryProcessor",
+		"travelRequest" ],
+	"name" : "TravelQueryProcessorTestCase",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

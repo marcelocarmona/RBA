@@ -1,0 +1,16 @@
+{
+	"category" : "RecorridosBA-TestCases",
+	"classinstvars" : [
+		"travelSearch",
+		"orderedCollection" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"orderedCollection",
+		"travelSearch" ],
+	"name" : "AutomaticTravelSearchTestCase",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "RecorridosBA-TravelProcess",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"delay" ],
+	"name" : "YellowState",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

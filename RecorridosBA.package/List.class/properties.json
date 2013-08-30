@@ -1,0 +1,17 @@
+{
+	"category" : "RecorridosBA-Core-Extensions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"dependents",
+		"collection",
+		"limit",
+		"collectionSize" ],
+	"name" : "List",
+	"pools" : [
+		 ],
+	"super" : "ArrayedCollection",
+	"type" : "normal" }

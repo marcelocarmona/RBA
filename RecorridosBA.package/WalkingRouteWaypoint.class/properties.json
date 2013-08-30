@@ -1,0 +1,15 @@
+{
+	"category" : "RecorridosBA-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"waypoints",
+		"route" ],
+	"name" : "WalkingRouteWaypoint",
+	"pools" : [
+		 ],
+	"super" : "Waypoint",
+	"type" : "normal" }

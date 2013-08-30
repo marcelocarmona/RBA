@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"processDurationMatrix:withOrigin:andTravelRequest:" : " 14/9/12 23:19",
+		"processTravel:withOrigin:optimized:alternatives:withMode:" : " 14/9/12 23:19",
+		"urlFor:" : " 14/9/12 23:19" },
+	"instance" : {
+		"calculateRoute:" : " 14/9/12 23:19",
+		"initialize" : "MarceloCarmona 10/31/2012 02:33",
+		"optimizeByTimeWithMode:andTravelRequest:" : "MarceloCarmona 11/12/2012 19:49",
+		"process:withMode:andOptimization:" : "MarceloCarmona 11/12/2012 19:53",
+		"switchFarthest:forTravelRequest:" : " 14/9/12 23:19",
+		"travel" : " 14/9/12 23:19",
+		"travel:" : " 14/9/12 23:19" } }

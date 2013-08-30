@@ -1,0 +1,1 @@
+A waypoint in the route.

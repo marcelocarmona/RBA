@@ -1,0 +1,14 @@
+{
+	"category" : "RecorridosBA-TravelProcess",
+	"classinstvars" : [
+		"singleton" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"traffic" ],
+	"name" : "Traffic",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"destroySingleton" : " 14/9/12 23:19",
+		"getTrafficFor:to:" : " 14/9/12 23:19",
+		"new" : " 14/9/12 23:19",
+		"singleton" : " 14/9/12 23:19" },
+	"instance" : {
+		"createTrafficData" : " 14/9/12 23:19",
+		"getTrafficFor:to:" : " 14/9/12 23:19",
+		"initialize" : "MarceloCarmona 10/31/2012 02:33",
+		"traffic" : " 14/9/12 23:19",
+		"traffic:" : " 14/9/12 23:19" } }

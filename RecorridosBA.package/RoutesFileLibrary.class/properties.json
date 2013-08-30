@@ -1,0 +1,14 @@
+{
+	"category" : "RecorridosBA-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "RoutesFileLibrary",
+	"pools" : [
+		 ],
+	"super" : "WAFileLibrary",
+	"type" : "normal" }

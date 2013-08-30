@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"distanceFor:" : " 14/9/12 23:19",
+		"exclusiveRoutes:forWaypoints:" : "MarceloCarmona 10/11/2012 21:28",
+		"initialize" : "MarceloCarmona 11/12/2012 18:46",
+		"modeString" : " 14/9/12 23:19",
+		"preProcess:" : " 14/9/12 23:19",
+		"processWalkingRoute:" : " 14/9/12 23:19",
+		"searchForWalk:within:" : " 14/9/12 23:19",
+		"searchForWalk:withinMeters:withinWaypoints:withinMaxWalkingDistance:" : " 14/9/12 23:19" } }

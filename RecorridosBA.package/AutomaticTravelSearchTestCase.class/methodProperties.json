@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"new" : " 14/9/12 23:19" },
+	"instance" : {
+		"setUp" : " 14/9/12 23:19",
+		"testDistanceFor" : " 14/9/12 23:19",
+		"testSearchForWalkWithinAMeterNumber" : " 14/9/12 23:19",
+		"testSearchForWalkWithinMetersWithinWaypointsWithinMaxWalkingDistance" : " 14/9/12 23:19" } }

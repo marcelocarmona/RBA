@@ -1,0 +1,4 @@
+accessing
+destinationsFormComponent: aDireccionesFormComponent
+	
+	destinationsFormComponent := aDireccionesFormComponent

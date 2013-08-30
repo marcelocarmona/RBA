@@ -1,0 +1,14 @@
+{
+	"category" : "RecorridosBA-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"destinationsListComponent" ],
+	"name" : "RBAUserListDestinations",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

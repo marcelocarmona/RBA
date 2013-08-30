@@ -1,0 +1,1 @@
+A walking route that has a set of waypoints and a master waypoint.

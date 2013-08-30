@@ -1,0 +1,4 @@
+accessing
+destinationsListComponent: aDireccionesListWebSite
+	
+	destinationsListComponent := aDireccionesListWebSite

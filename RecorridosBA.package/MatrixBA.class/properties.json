@@ -1,0 +1,15 @@
+{
+	"category" : "RecorridosBA-LoginSecuritySystem",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"matrix",
+		"size" ],
+	"name" : "MatrixBA",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "RecorridosBA-LoginSecuritySystem",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"valor" ],
+	"name" : "Resultado",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
